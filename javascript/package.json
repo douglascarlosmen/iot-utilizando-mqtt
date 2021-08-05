@@ -1,0 +1,14 @@
+{
+  "name": "javascript-com-mqtt",
+  "version": "1.0.0",
+  "description": "Listener e Publicher MQTT feito em Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Men",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.2.8"
+  }
+}
